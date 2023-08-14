@@ -1,0 +1,2 @@
+Sword   abstractFactory.PlainSword
+Shield  abstractFactory.PlainShield
